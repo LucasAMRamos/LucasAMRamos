@@ -1,5 +1,5 @@
-<h1 align="center">Lucas Ramos Medeiros de Ramos</h1>
-<h3 align="center">🎓 ADS | PUC Minas • 📌 Projetos de estudo & prática • 🇺🇸 Inglês B1</h3>
+<h1 align="center">Lucas Augusto Medeiros de Ramos</h1>
+<h3 align="center"> ADS | PUC Minas •  Projetos de estudo & prática</h3>
 
 <br>
 
