@@ -1,4 +1,4 @@
-<h1 align="center">Sou Lucas 👍</h1>
+<h1 align="center">Lucas Ramos Medeiros</h1>
 <h3 align="center">🎓 ADS | PUC Minas • 📌 Projetos de estudo & prática • 🇺🇸 Inglês B1</h3>
 
 <br>
